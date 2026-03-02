@@ -5,5 +5,7 @@ This repo is build to document the codes used in ACC competition in 2026.
 Following the instructions on the webpage: [Development Guide for the Development Container ](https://github.com/quanser/student-competition-resources-ros/blob/main/Virtual_ROS_Resources/Virtual_ROS_Development_Guide.md)
 ## How to run
 ### 1 Start Qlabs
-'''bash
+```bash
 /usr/bin/QLabs
+```
+
